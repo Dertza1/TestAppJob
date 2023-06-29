@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezZctjr8+jx3J5w4YHaAVrVdhekNupABUAXTjTXGMSQXrU3kp/YNdrcYRYevVzSvk3Y6kemSB11LYsFNWt6xEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ukukk\\Desktop\\Job\\iConText Group\\TestApp\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ukukk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
